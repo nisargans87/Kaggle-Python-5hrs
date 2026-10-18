@@ -126,6 +126,11 @@ Kaggle-Python-Learning/
 
 *I'll update this checklist as I make progress.*
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e755a2be-18a8-42f6-90f7-a7090d03d5f5" />
+
+
+
+
 ## 🌐 Learning Resources
 
 - 🔵 [My Kaggle Profile](https://www.kaggle.com/nisargansgowda)
